@@ -5,3 +5,6 @@
 2. Run "Fritzing.exe"
 
 3. You are good to go!
+
+4. Antes de executar, excluir a pasta Arquivos Fritizing-20260503T183005Z-3-001.zip
+arquivos de programacao projetos que adicionei depois
